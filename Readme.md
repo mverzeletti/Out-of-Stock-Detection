@@ -1,4 +1,4 @@
-# Algoritmos de Identificação de Ruptura
+# Algoritmos para Identificação de Ruptura de Estoque
 
 Algoritmos desenvolvidos como parte da Dissertação de Mestrado: "*IDENTIFICAÇÃO DE RUPTURAS DE ESTOQUE NO VAREJO ALIMENTAR ATRAVÉS DE TÉCNICAS DE SOFT COMPUTING*"
 
